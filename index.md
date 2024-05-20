@@ -1,0 +1,1 @@
+<h1>Bai tap Javascrip </h1>
